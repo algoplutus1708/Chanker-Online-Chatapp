@@ -13,7 +13,7 @@ function Footer() {
           Made with ReactJS <i className="f__text f__heart__symbol">&#10084;</i>{" "}
           by{" "}
           <span className="f__text dev__name nowrap" onClick={handleClick}>
-            Swastick, Suraj, Sachin
+            Swastick
           </span>
         </p>
       </div>
